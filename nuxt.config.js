@@ -4,7 +4,7 @@ export default {
   // Disable server-side rendering (https://go.nuxtjs.dev/ssr-mode)
   ssr: false,
   router: {
-    base: process.env.NODE_ENV  === 'production' ? '/edicasoft_/' : '/'
+    base: process.env.NODE_ENV  === 'production' ? '/edicasoft-test/' : '/'
   },
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
