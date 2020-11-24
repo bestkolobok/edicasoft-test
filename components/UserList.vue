@@ -95,7 +95,7 @@ export default {
     }
     &__virtual-scroll{
       margin: -1px 0;
-      height: calc(100vh - 264px);
+      height: calc(100vh - 290px);
     }
     &__item{
       background-color: $c--primary;
